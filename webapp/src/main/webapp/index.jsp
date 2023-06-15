@@ -39,7 +39,7 @@
 
 <body>
     <div class="container">
-        <img class="logo" src="Siva-creator-ops/hello-world/webapp/src/main/webapp/WEB-INF/ef.jpg" alt="Eficens Logo">
+        <img src="../.././main/webapp/WEB-INF/ef.jpg" alt="">
         <h1>Welcome to Eficens!</h1>
         <p>DevOps Learning made simple...</p>
     </div>
