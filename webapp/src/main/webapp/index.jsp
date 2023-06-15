@@ -40,6 +40,7 @@
 <body>
     <div class="container">
         <img class="logo" src=""file:///C:/Users/SIVA%20RAMA%20KRISHNA/OneDrive/Desktop/eF-ONLY%20NAME%20ON%20WHITE%20BG.png "" alt="Eficens Logo">
+        <img src='<c:url value="src/main/css/ef.png">' />
         <h1>Welcome to Eficens!</h1>
         <p>DevOps Learning made simple...</p>
     </div>
