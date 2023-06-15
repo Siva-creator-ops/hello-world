@@ -8,7 +8,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f2f2f2;
+            background-color: #ffffff;
             margin: 0;
             padding: 0;
         }
@@ -39,7 +39,7 @@
 
 <body>
     <div class="container">
-        <img src="ef.jpg" width="200" height="150" alt="">
+        <img src="ef.jpg" width="500" height="250" alt="">
         <h1>Welcome to Eficens!</h1>
         <p>DevOps Learning made simple...</p>
     </div>
