@@ -39,7 +39,7 @@
 
 <body>
     <div class="container">
-        <img src="ef.jpg" alt="">
+        <img src="ef.jpg" width="200" height="150" alt="">
         <h1>Welcome to Eficens!</h1>
         <p>DevOps Learning made simple...</p>
     </div>
